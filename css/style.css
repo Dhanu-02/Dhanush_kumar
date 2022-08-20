@@ -1,7 +1,7 @@
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Lemonada', cursive;
+  font-family: sans-serif;
 }
 
 h1 {
@@ -12,17 +12,17 @@ h1 {
 
 p {
   margin: 0;
-  font-family: 'Lemonada', cursive;
+  font-family: sans-serif;
 }
 ul{
   display:inline-block;
-  font-family: 'Lemonada', cursive;
+  font-family: sans-serif;
 }
 .contact-me{
   font-family: 'Cinzel Decorative', cursive;
 }
 .get{
-  font-family: 'Lemonada', cursive;
+  font-family: sans-serif;
 }
 hr {
   border-bottom: hidden;
